@@ -6,7 +6,7 @@ Application built with Sapper (NodeJS backend, Svelte frontend) with the use of 
 
 Currently a *work in progress*
 
-Last updated: 07/22/2020
+Last updated: April 10, 2020
 
 ## More information soon!
 
